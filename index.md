@@ -4,7 +4,7 @@ title: Meet Isaac
 ---
 
 I design things to improve life on a human scale.
-Note: This site is a work in progress - some links are currently broken.
+Note: This site is a work in progress - some internal links are currently broken.
 
 ![Isaac playing the melodica](general-images/isaac-holding-melodica.jpg)
 
