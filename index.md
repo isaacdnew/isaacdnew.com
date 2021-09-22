@@ -8,7 +8,7 @@ Note: This site is a work in progress - some internal links are currently broken
 <!-- Card with cards at right -->
 <div class="d-flex align-items-center">
 	<!-- one card at left -->
-	<div class="p-4">
+	<div class="p-5">
 		<div class="card">
 			<!-- Image Card with Isaac's Picture -->
 			<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
@@ -29,9 +29,8 @@ Note: This site is a work in progress - some internal links are currently broken
 		</div>
 	</div>
 	<!-- Group of cards at right -->
-	<div class="p-8">
+	<div class="p-7">
 		<div class="d-flex flex-row">
-			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
@@ -40,8 +39,6 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-			</div>
-			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
@@ -50,10 +47,6 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-			</div>
-		</div>
-		<div class="d-flex flex-row">
-			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
@@ -62,8 +55,6 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-			</div>
-			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
