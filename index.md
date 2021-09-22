@@ -6,7 +6,7 @@ title: Meet Isaac
 Note: This site is a work in progress - some internal links are currently broken.
 
 <!-- Card with cards at right -->
-<div class="container">
+<div class="row">
 	<!-- one card at left -->
 	<div class="col-md-5">
 		<div class="card">
