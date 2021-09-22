@@ -17,7 +17,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<h4 class="card-title">Isaac Newcomb</h4>
 					<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
 					<p class="card-text">I design things that improve life for humans.</p>
-					<div class="container-fluid">
+					<div class="container-fluid align-content-left">
 						<a href="bio" class="btn btn-primary btn-block">More about me</a>
 						<!-- Contact-info buttons in a group -->
 						<div class="btn-group btn-block">
