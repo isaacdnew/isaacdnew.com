@@ -30,34 +30,10 @@ Note: This site is a work in progress - some internal links are currently broken
 		</div>
 		<!-- Group of cards at right -->
 		<div class="col-md-8">
+			<div class="row">
+				<h2>My favorite projects</h2>
+			</div>
 			<div class="row row-cols-3">
-				<!-- Frog -->
-				<div class="card">
-					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">Frog</h4>
-						<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
-						<a href="projects/frog" class="btn btn-primary">See project</a>
-					</div>
-				</div>
-				<!-- Reuleaux L6 -->
-				<div class="card">
-					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">Reuleaux Machine L6</h4>
-						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
-						<a href="#" class="btn btn-primary">See project</a>
-					</div>
-				</div>
-				<!-- 3lb 2020 -->
-				<div class="card">
-					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">3-Lb Combat Robot</h4>
-						<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
-						<a href="#" class="btn btn-primary">See project</a>
-					</div>
-				</div>
 				<!-- Ice Keys -->
 				<div class="card">
 					<img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
@@ -67,13 +43,34 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="projects/ice-keys" class="btn btn-primary">See project</a>
 					</div>
 				</div>
+				<!-- 3lb 2020 -->
+				<div class="card">
+					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
+					<div class="card-body">
+						<h4 class="card-title">3-Lb Combat Bot</h4>
+						<p class="card-text">A vertical spinner designed with Combat Robotics at Cornell</p>
+						<a href="#" class="btn btn-primary">See project</a>
+					</div>
+				</div>
+				<!-- Reuleaux L6 -->
+				<div class="card">
+					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
+					<div class="card-body">
+						<h4 class="card-title">Reuleaux L6</h4>
+						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
+						<a href="#" class="btn btn-primary">See project</a>
+					</div>
+				</div>
+				<!-- Frog -->
+				<div class="card">
+					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
+					<div class="card-body">
+						<h4 class="card-title">Frog</h4>
+						<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
+						<a href="projects/frog" class="btn btn-primary">See project</a>
+					</div>
+				</div>
 			</div>
 		</div>
 	</div>
 </div>
-## Projects
-
-- [Ice Keys](projects/ice-keys/ice-keys.md) (a new musical instrument)
-- [Covid-19 Face Shields](projects/covid-shields/covid-shields.md)
-- [Reclaimed Metal Frog](projects/frog/frog.md)
-- [Expressio](projects/expressio/expressio.md) (a manual smile to put over your mask)
