@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: home
 title: Meet Isaac
 ---
 
@@ -33,6 +33,7 @@ Note: This site is a work in progress - some internal links are currently broken
 		<!-- Group of cards at right -->
 		<div class="col-md-7">
 			<div class="row row-cols-3">
+				<!-- Frog -->
 				<div class="card">
 					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
@@ -41,6 +42,7 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
+				<!-- Reuleaux L6 -->
 				<div class="card">
 					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
@@ -49,6 +51,7 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
+				<!-- 3lb 2020 -->
 				<div class="card">
 					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
@@ -57,11 +60,12 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
+				<!-- Ice Keys -->
 				<div class="card">
-					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+					<img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
-						<h4 class="card-title">Isaac Newcomb</h4>
-						<p class="card-text">I design things that improve life for humans.</p>
+						<h4 class="card-title">Ice Keys</h4>
+						<p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
