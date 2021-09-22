@@ -8,7 +8,7 @@ Note: This site is a work in progress - some internal links are currently broken
 <!-- Image Card with Isaac's Picture -->
 <div class="container">
 	<div class="card" style="width:400px">
-		<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+		<img class="card-img-top" src="general-images/isaac-holding-melodica.jpg" alt="Card image" style="width:100%">
 		<div class="card-body">
 			<h4 class="card-title">Isaac Newcomb</h4>
 			<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
