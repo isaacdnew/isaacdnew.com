@@ -32,7 +32,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<div class="col-sm-6">
 		<div class="row">
 			<div class="col-sm-3">
-				<div class="card" style="width:400px">
+				<div class="card" style="width:100px">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
@@ -43,7 +43,7 @@ Note: This site is a work in progress - some internal links are currently broken
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="card" style="width:400px">
+				<div class="card" style="width:100px">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
@@ -56,7 +56,7 @@ Note: This site is a work in progress - some internal links are currently broken
 		</div>
 		<div class="row">
 			<div class="col-sm-3">
-				<div class="card" style="width:400px">
+				<div class="card" style="width:100px">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
@@ -67,7 +67,7 @@ Note: This site is a work in progress - some internal links are currently broken
 				</div>
 			</div>
 			<div class="col-sm-3">
-				<div class="card" style="width:400px">
+				<div class="card" style="width:100px">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
