@@ -18,10 +18,10 @@ Note: This site is a work in progress - some internal links are currently broken
 	</div>
 	<br>
 	<div class="btn-group">
-		<a href="mailto:isaacdnew@gmail.com" class="btn btn-primary">Email</a>
-		<a href="tel:1-518-418-5518" class="btn btn-primary">Call/Text</a>
-		<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-primary">LinkedIn</a>
-		<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-primary">SoundCloud</a>
+		<a href="mailto:isaacdnew@gmail.com" class="btn btn-secondary">Email</a>
+		<a href="tel:1-518-418-5518" class="btn btn-secondary">Call or Text</a>
+		<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-secondary">LinkedIn</a>
+		<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-secondary">SoundCloud</a>
 	</div>
 </div>
 
