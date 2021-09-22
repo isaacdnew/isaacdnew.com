@@ -31,7 +31,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<!-- Group of cards at right -->
 	<div class="p-8">
 		<div class="d-flex flex-row">
-			<div class="p-3">
+			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
@@ -41,7 +41,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					</div>
 				</div>
 			</div>
-			<div class="p-3">
+			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/L6 V117.jpg" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
@@ -51,7 +51,9 @@ Note: This site is a work in progress - some internal links are currently broken
 					</div>
 				</div>
 			</div>
-			<div class="p-3">
+		</div>
+		<div class="d-flex flex-row">
+			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/3lb-MichIsaaMatSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
@@ -61,7 +63,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					</div>
 				</div>
 			</div>
-			<div class="p-3">
+			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
