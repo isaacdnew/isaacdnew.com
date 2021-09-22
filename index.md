@@ -20,8 +20,8 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="container-fluid">
 						<a href="bio" class="btn btn-primary btn-block">More about me</a>
 						<!-- Contact-info buttons in a group -->
-						<div class="btn-group">
-							<a href="mailto:isaacdnew@gmail.com" class="btn btn-secondary btn-block">Email</a>
+						<div class="btn-group btn-block">
+							<a href="mailto:isaacdnew@gmail.com" class="btn btn-secondary">Email</a>
 							<a href="tel:1-518-418-5518" class="btn btn-secondary">Phone</a>
 							<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-secondary">LinkedIn</a>
 							<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-secondary">SoundCloud</a>
@@ -39,7 +39,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="card-body">
 						<h4 class="card-title">Frog</h4>
 						<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
-						<a href="bio" class="btn btn-primary">See project</a>
+						<a href="projects/frog" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 				<!-- Reuleaux L6 -->
@@ -48,7 +48,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="card-body">
 						<h4 class="card-title">Reuleaux Machine L6</h4>
 						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
-						<a href="bio" class="btn btn-primary">See project</a>
+						<a href="#" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 				<!-- 3lb 2020 -->
@@ -57,7 +57,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="card-body">
 						<h4 class="card-title">3-Lb Combat Robot</h4>
 						<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
-						<a href="bio" class="btn btn-primary">See project</a>
+						<a href="#" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 				<!-- Ice Keys -->
@@ -66,7 +66,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="card-body">
 						<h4 class="card-title">Ice Keys</h4>
 						<p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
-						<a href="bio" class="btn btn-primary">See project</a>
+						<a href="projects/ice-keys" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 			</div>
