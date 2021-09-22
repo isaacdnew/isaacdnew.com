@@ -50,6 +50,8 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">More about me</a>
 					</div>
 				</div>
+			</div>
+			<div class="p-3">
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
