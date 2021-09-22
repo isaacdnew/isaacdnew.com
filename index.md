@@ -43,7 +43,7 @@ Note: This site is a work in progress - some internal links are currently broken
 			</div>
 			<div class="p-4">
 				<div class="card">
-					<img class="card-img-top" src="general-images/L6 V117.jpg" alt="CAD render of a Reuleaux machine" style="width:100%">
+					<img class="card-img-top" src="general-images/L6 v117.jpg" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Reuleaux Machine L6</h4>
 						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
@@ -55,7 +55,7 @@ Note: This site is a work in progress - some internal links are currently broken
 		<div class="d-flex flex-row">
 			<div class="p-4">
 				<div class="card">
-					<img class="card-img-top" src="general-images/3lb-MichIsaaMatSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
+					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">3-Lb Combat Robot</h4>
 						<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
