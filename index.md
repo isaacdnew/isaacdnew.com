@@ -9,7 +9,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<!-- row with two groups of cards -->
 	<div class="row">
 		<!-- one card at left -->
-		<div class="col-md-5">
+		<div class="col-md-4">
 			<div class="card">
 				<!-- Image Card with Isaac's Picture -->
 				<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
@@ -17,7 +17,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<h4 class="card-title">Isaac Newcomb</h4>
 					<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
 					<p class="card-text">I design things that improve life for humans.</p>
-					<div class="container-fluid align-content-left">
+					<div class="container">
 						<a href="bio" class="btn btn-primary btn-block">More about me</a>
 						<!-- Contact-info buttons in a group -->
 						<div class="btn-group btn-block">
@@ -31,7 +31,7 @@ Note: This site is a work in progress - some internal links are currently broken
 			</div>
 		</div>
 		<!-- Group of cards at right -->
-		<div class="col-md-7">
+		<div class="col-md-8">
 			<div class="row row-cols-3">
 				<!-- Frog -->
 				<div class="card">
