@@ -6,7 +6,20 @@ title: Meet Isaac
 I design things to improve life on a human scale.
 Note: This site is a work in progress - some internal links are currently broken.
 
-![Isaac playing the melodica](general-images/isaac-holding-melodica.jpg)
+<!-- Image Card with Isaac's Picture -->
+<div class="container">
+  <h2>Isaac Newcomb</h2>
+  <p>Engineer / Musician</p>
+  <div class="card" style="width:400px">
+    <img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+    <div class="card-body">
+      <h4 class="card-title">My mission</h4>
+      <p class="card-text">I design things to improve life on a human scale.</p>
+      <a href="bio.md" class="btn btn-primary">More about me</a>
+    </div>
+  </div>
+  <br>
+</div>
 
 [isaacdnew@gmail.com](mailto:isaacdnew@gmail.com)
 [(518) 418-5518](tel:1-518-418-5518)
