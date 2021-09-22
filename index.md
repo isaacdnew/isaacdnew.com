@@ -7,22 +7,23 @@ Note: This site is a work in progress - some internal links are currently broken
 
 <!-- Image Card with Isaac's Picture -->
 <div class="container">
-  <div class="card" style="width:400px">
-    <img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
-    <div class="card-body">
-      <h4 class="card-title">Isaac Newcomb</h4>
-      <h6 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h6>
-	  <p class="card-text">I design things that improve life for humans.</p>
-      <a href="bio" class="btn btn-primary">More about me</a>
-    </div>
-  </div>
-  <br>
+	<div class="card" style="width:400px">
+		<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+		<div class="card-body">
+			<h4 class="card-title">Isaac Newcomb</h4>
+			<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
+		<p class="card-text">I design things that improve life for humans.</p>
+			<a href="bio" class="btn btn-primary">More about me</a>
+		</div>
+	</div>
+	<br>
+	<div class="btn-group">
+		<a href="mailto:isaacdnew@gmail.com" class="btn btn-primary">Email</a>
+		<a href="tel:1-518-418-5518" class="btn btn-primary">Call/Text</a>
+		<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-primary">LinkedIn</a>
+		<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-primary">SoundCloud</a>
+	</div>
 </div>
-
-[isaacdnew@gmail.com](mailto:isaacdnew@gmail.com)
-[(518) 418-5518](tel:1-518-418-5518)
-[linkedin.com/in/isaacdnew](https://www.linkedin.com/in/isaacdnew)
-[soundcloud.com.isaacnewcomb](https://soundcloud.com/isaacnewcomb/)
 
 ## Projects
 
