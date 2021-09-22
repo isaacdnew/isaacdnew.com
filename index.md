@@ -6,7 +6,7 @@ title: Meet Isaac
 Note: This site is a work in progress - some internal links are currently broken.
 
 <!-- Card with cards at right -->
-<div class="d-flex align-items-center">
+<div class="d-flex align-items-top">
 	<!-- one card at left -->
 	<div class="p-5">
 		<div class="card">
@@ -31,7 +31,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<!-- Group of cards at right -->
 	<div class="p-7">
 		<div class="d-flex align-content-between flex-wrap">
-				<div class="card">
+				<div class="card p-3">
 					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Frog</h4>
@@ -39,7 +39,7 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card p-3">
 					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Reuleaux Machine L6</h4>
@@ -47,7 +47,7 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card p-3">
 					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">3-Lb Combat Robot</h4>
@@ -55,7 +55,7 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
-				<div class="card">
+				<div class="card p-3">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
