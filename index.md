@@ -33,41 +33,37 @@ Note: This site is a work in progress - some internal links are currently broken
 		<div class="d-flex align-items">
 			<div class="p-3">
 				<div class="card">
-					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
-						<h4 class="card-title">Isaac Newcomb</h4>
-						<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
-						<p class="card-text">I design things that improve life for humans.</p>
-						<a href="bio" class="btn btn-primary">More about me</a>
+						<h4 class="card-title">Frog</h4>
+						<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
+						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 				<div class="card">
-					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+					<img class="card-img-top" src="general-images/L6 V117.jpg" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
-						<h4 class="card-title">Isaac Newcomb</h4>
-						<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
-						<p class="card-text">I design things that improve life for humans.</p>
-						<a href="bio" class="btn btn-primary">More about me</a>
+						<h4 class="card-title">Reuleaux Machine L6</h4>
+						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
+						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 			</div>
 			<div class="p-3">
 				<div class="card">
-					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+					<img class="card-img-top" src="general-images/3lb-MichIsaaMatSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
 					<div class="card-body">
-						<h4 class="card-title">Isaac Newcomb</h4>
-						<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
-						<p class="card-text">I design things that improve life for humans.</p>
-						<a href="bio" class="btn btn-primary">More about me</a>
+						<h4 class="card-title">3-Lb Combat Robot</h4>
+						<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
+						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Isaac Newcomb</h4>
-						<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
 						<p class="card-text">I design things that improve life for humans.</p>
-						<a href="bio" class="btn btn-primary">More about me</a>
+						<a href="bio" class="btn btn-primary">See project</a>
 					</div>
 				</div>
 			</div>
