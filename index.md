@@ -9,13 +9,15 @@ Note: This site is a work in progress - some internal links are currently broken
 <div class="d-flex align-items-center">
 	<!-- one card at left -->
 	<div class="p-6">
-		<!-- Image Card with Isaac's Picture -->
-		<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
-		<div class="card-body">
-			<h4 class="card-title">Isaac Newcomb</h4>
-			<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
-			<p class="card-text">I design things that improve life for humans.</p>
-			<a href="bio" class="btn btn-primary">More about me</a>
+		<div class="card">
+			<!-- Image Card with Isaac's Picture -->
+			<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+			<div class="card-body">
+				<h4 class="card-title">Isaac Newcomb</h4>
+				<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
+				<p class="card-text">I design things that improve life for humans.</p>
+				<a href="bio" class="btn btn-primary">More about me</a>
+			</div>
 		</div>
 		<br>
 		<!-- Contact-info buttons in a group -->
@@ -26,7 +28,7 @@ Note: This site is a work in progress - some internal links are currently broken
 			<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-secondary">SoundCloud</a>
 		</div>
 	</div>
-	<!-- Group of cards at right -->
+	<!-- Group of cards at rightz -->
 	<div class="col-sm-6">
 		<div class="row">
 			<div class="col-sm-3">
