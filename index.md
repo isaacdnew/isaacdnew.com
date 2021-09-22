@@ -43,7 +43,7 @@ Note: This site is a work in progress - some internal links are currently broken
 			</div>
 			<div class="p-4">
 				<div class="card">
-					<img class="card-img-top" src="general-images/L6 v117.jpg" alt="CAD render of a Reuleaux machine" style="width:100%">
+					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
 					<div class="card-body">
 						<h4 class="card-title">Reuleaux Machine L6</h4>
 						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
