@@ -6,7 +6,7 @@ title: Meet Isaac
 Note: This site is a work in progress - some internal links are currently broken.
 
 <!-- Image Card with Isaac's Picture -->
-<div class="container">
+<div class="d-flex justify-content-center">
 	<div class="card" style="width:400px">
 		<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 		<div class="card-body">
