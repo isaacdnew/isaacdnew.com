@@ -3,13 +3,7 @@ layout: page
 title: Meet Isaac
 ---
 
-<div class="row">
-	<div class="col-md-5">5 column</div>
-	<div class="col-md-7">7 column</div>
-</div>
-
 Note: This site is a work in progress - some internal links are currently broken.
-
 
 <!-- Card with cards at right -->
 <div class="row">
