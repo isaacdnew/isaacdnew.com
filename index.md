@@ -6,9 +6,9 @@ title: Meet Isaac
 Note: This site is a work in progress - some internal links are currently broken.
 
 <!-- Card with cards at right -->
-<div class="d-flex align-items-top">
+<div class="container">
 	<!-- one card at left -->
-	<div class="p-5">
+	<div class="col-sm-5">
 		<div class="card">
 			<!-- Image Card with Isaac's Picture -->
 			<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
@@ -29,39 +29,38 @@ Note: This site is a work in progress - some internal links are currently broken
 		</div>
 	</div>
 	<!-- Group of cards at right -->
-	<div class="p-7">
-		<div class="d-flex align-content-between flex-wrap">
-				<div class="card p-3">
-					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">Frog</h4>
-						<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
-						<a href="bio" class="btn btn-primary">See project</a>
-					</div>
+	<div class="col-md-7">
+		<div class="row row-cols-2">
+			<div class="card">
+				<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
+				<div class="card-body">
+					<h4 class="card-title">Frog</h4>
+					<p class="card-text">A reclaimed metal frog sculpture built in a week</p>
+					<a href="bio" class="btn btn-primary">See project</a>
 				</div>
-				<div class="card p-3">
-					<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">Reuleaux Machine L6</h4>
-						<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
-						<a href="bio" class="btn btn-primary">See project</a>
-					</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="general-images/L6 v117.png" alt="CAD render of a Reuleaux machine" style="width:100%">
+				<div class="card-body">
+					<h4 class="card-title">Reuleaux Machine L6</h4>
+					<p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
+					<a href="bio" class="btn btn-primary">See project</a>
 				</div>
-				<div class="card p-3">
-					<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">3-Lb Combat Robot</h4>
-						<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
-						<a href="bio" class="btn btn-primary">See project</a>
-					</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="general-images/3lb-MichIsaaMattSof.png" alt="CAD render of a 3-pound combat robot" style="width:100%">
+				<div class="card-body">
+					<h4 class="card-title">3-Lb Combat Robot</h4>
+					<p class="card-text">A vertical spinner design made over the summer with Combat Robotics at Cornell</p>
+					<a href="bio" class="btn btn-primary">See project</a>
 				</div>
-				<div class="card p-3">
-					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
-					<div class="card-body">
-						<h4 class="card-title">Isaac Newcomb</h4>
-						<p class="card-text">I design things that improve life for humans.</p>
-						<a href="bio" class="btn btn-primary">See project</a>
-					</div>
+			</div>
+			<div class="card">
+				<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
+				<div class="card-body">
+					<h4 class="card-title">Isaac Newcomb</h4>
+					<p class="card-text">I design things that improve life for humans.</p>
+					<a href="bio" class="btn btn-primary">See project</a>
 				</div>
 			</div>
 		</div>
