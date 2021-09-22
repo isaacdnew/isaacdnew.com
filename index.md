@@ -17,15 +17,13 @@ Note: This site is a work in progress - some internal links are currently broken
 					<h4 class="card-title">Isaac Newcomb</h4>
 					<h5 class="card-text">Mechanical Engineer / Musician / 3D Printing Enthusiast</h5>
 					<p class="card-text">I design things that improve life for humans.</p>
-					<div class="container">
-						<a href="bio" class="btn btn-primary btn-block">More about me</a>
-						<!-- Contact-info buttons in a group -->
-						<div class="btn-group btn-block">
-							<a href="mailto:isaacdnew@gmail.com" class="btn btn-secondary">Email</a>
-							<a href="tel:1-518-418-5518" class="btn btn-secondary">Phone</a>
-							<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-secondary">LinkedIn</a>
-							<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-secondary">SoundCloud</a>
-						</div>
+					<a href="bio" class="btn btn-primary btn-block">More about me</a>
+					<!-- Contact-info buttons in a group -->
+					<div class="btn-group btn-block">
+						<a href="mailto:isaacdnew@gmail.com" class="btn btn-secondary">Email</a>
+						<a href="tel:1-518-418-5518" class="btn btn-secondary">Phone</a>
+						<a href="https://www.linkedin.com/in/isaacdnew" class="btn btn-secondary">LinkedIn</a>
+						<a href="https://soundcloud.com/isaacnewcomb/" class="btn btn-secondary">SoundCloud</a>
 					</div>
 				</div>
 			</div>
