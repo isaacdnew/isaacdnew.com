@@ -31,7 +31,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<!-- Group of cards at rightz -->
 	<div class="p-8">
 		<div class="d-flex align-items">
-			<div class="p-4">
+			<div class="p-3">
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
@@ -59,8 +59,6 @@ Note: This site is a work in progress - some internal links are currently broken
 						<a href="bio" class="btn btn-primary">More about me</a>
 					</div>
 				</div>
-			</div>
-			<div class="p-4">
 				<div class="card">
 					<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
 					<div class="card-body">
