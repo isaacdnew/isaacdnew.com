@@ -30,7 +30,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	</div>
 	<!-- Group of cards at right -->
 	<div class="p-7">
-		<div class="d-flex flex-row justify-content-start">
+		<div class="d-flex align-content-between flex-wrap">
 				<div class="card">
 					<img class="card-img-top" src="general-images/frog-side.jpg" alt="Reclaimed metal frog sculpture" style="width:100%">
 					<div class="card-body">
