@@ -8,7 +8,7 @@ Note: This site is a work in progress - some internal links are currently broken
 <!-- Card with cards at right -->
 <div class="container">
 	<!-- one card at left -->
-	<div class="col-sm-5">
+	<div class="col-md-5">
 		<div class="card">
 			<!-- Image Card with Isaac's Picture -->
 			<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
