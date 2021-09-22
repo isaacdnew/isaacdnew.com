@@ -1,5 +1,3 @@
-# Ice Keys
-
 An acoustic keyboard that sounds like polyphonic pan pipes.
 
 ## Prototype Versions
