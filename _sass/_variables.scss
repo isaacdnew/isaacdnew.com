@@ -19,16 +19,16 @@ $gray-800: #303030 !default;
 $gray-900: #222 !default;
 $black:    #000 !default;
 
-$blue:    #375a7f !default;
+$blue:    #1D609B !default;
 $indigo:  #6610f2 !default;
 $purple:  #6f42c1 !default;
 $pink:    #e83e8c !default;
 $red:     #e74c3c !default;
 $orange:  #fd7e14 !default;
 $yellow:  #f39c12 !default;
-$green:   #00bc8c !default;
-$teal:    #20c997 !default;
-$cyan:    #3498db !default;
+$green:   #02A104 !default;
+$teal:    #52B39F !default;
+$cyan:    #32adcc !default;
 
 $primary:       $blue !default;
 $secondary:     $gray-700 !default;
@@ -48,7 +48,7 @@ $body-color:                $white !default;
 
 // Links
 
-$link-color:                $success !default;
+$link-color:                $primary !default;
 
 // Fonts
 
