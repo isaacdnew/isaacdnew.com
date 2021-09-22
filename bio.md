@@ -12,7 +12,7 @@ This bio is incomplete — I'm focusing on getting the theme the way I want for 
     <div class="card-body">
       <h4 class="card-title">Reclaimed metal frog</h4>
       <p class="card-text">One week | One 1920s Hay Rake | A good teacher and a good friend</p>
-      <a href="/projects/frog/frog.md" class="btn btn-primary">Learn more</a>
+      <a href="/projects/frog/frog" class="btn btn-primary">Learn more</a>
     </div>
   </div>
   <br>

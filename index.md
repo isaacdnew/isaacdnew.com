@@ -15,7 +15,7 @@ Note: This site is a work in progress - some internal links are currently broken
     <div class="card-body">
       <h4 class="card-title">My mission</h4>
       <p class="card-text">I design things to improve life on a human scale.</p>
-      <a href="bio.md" class="btn btn-primary">More about me</a>
+      <a href="bio" class="btn btn-primary">More about me</a>
     </div>
   </div>
   <br>
