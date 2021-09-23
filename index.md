@@ -34,7 +34,7 @@ Note: This site is a work in progress - some internal links are currently broken
 				<div class="col">
 					<h2>My favorite projects</h2>
 				</div>
-				<div class="col">
+				<div class="col justify-content-md-right">
 					<a href="projects" class="btn btn-primary">See all projects</a>
 				</div>
 			</div>
