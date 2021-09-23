@@ -40,21 +40,13 @@ Note: This site is a work in progress - some internal links are currently broken
       </div>
       <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
         <!-- Ice Keys -->
-        <div class="card" style="max-width: 540px;">
-          <div class="row no-gutters">
-            <!-- left: image -->
-            <div class="col-md-4">
-              <img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
-            </div>
-            <!-- right: text -->
-            <div class="col-md-3">
-              <div class="card-body">
-                <h4 class="card-title">Ice Keys</h4>
-                <p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
-                <div class="">
-                  <a href="projects/ice-keys" class="btn btn-primary">See all</a>
-                </div>
-              </div>
+        <div class="card">
+          <img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
+          <div class="card-body">
+            <h4 class="card-title">Ice Keys</h4>
+            <p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
+            <div class="">
+              <a href="projects/ice-keys" class="btn btn-primary">See all</a>
             </div>
           </div>
         </div>
