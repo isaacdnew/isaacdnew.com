@@ -29,9 +29,11 @@ Note: This site is a work in progress - some internal links are currently broken
 			</div>
 		</div>
 		<!-- Group of cards at right -->
-		<div class="col-md-8">
+		<div class="col">
 			<div class="row">
-				<h2>My favorite projects</h2>
+				<div class="col">
+					<h2>My favorite projects</h2>
+				</div>
 				<div class="col">
 					<a href="projects" class="btn btn-primary">See all projects</div>
 				</div>
