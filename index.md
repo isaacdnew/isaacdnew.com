@@ -42,9 +42,11 @@ Note: This site is a work in progress - some internal links are currently broken
         <!-- Ice Keys -->
         <div class="card" style="max-width: 540px;">
           <div class="row no-gutters">
-            <div class="col-md-2">
+            <!-- left: image -->
+            <div class="col-md-4">
               <img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
             </div>
+            <!-- right: text -->
             <div class="col-md-3">
               <div class="card-body">
                 <h4 class="card-title">Ice Keys</h4>
