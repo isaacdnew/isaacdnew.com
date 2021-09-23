@@ -9,7 +9,7 @@ Note: This site is a work in progress - some internal links are currently broken
 	<!-- row with two groups of cards -->
 	<div class="row">
 		<!-- one card at left -->
-		<div class="col-md-4">
+		<div class="col-6 col-md-4">
 			<div class="card">
 				<!-- Image Card with Isaac's Picture -->
 				<img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
@@ -32,6 +32,7 @@ Note: This site is a work in progress - some internal links are currently broken
 		<div class="col-md-8">
 			<div class="row">
 				<h2>My favorite projects</h2>
+				<div class="btn btn-primary">See all projects</div>
 			</div>
 			<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
 				<!-- Ice Keys -->
