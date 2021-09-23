@@ -30,12 +30,12 @@ Note: This site is a work in progress - some internal links are currently broken
 		</div>
 		<!-- Group of cards at right -->
 		<div class="col">
-			<div class="row">
+			<div class="row justify-content-between">
 				<div class="col">
 					<h2>My favorite projects</h2>
 				</div>
-				<div class="col justify-content-md-right">
-					<a href="projects" class="btn btn-primary">See all projects</a>
+				<div class="col">
+					<a href="projects" class="btn btn-secondary">See all projects</a>
 				</div>
 			</div>
 			<div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
