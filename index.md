@@ -45,7 +45,7 @@ Note: This site is a work in progress - some internal links are currently broken
 					<div class="card-body">
 						<h4 class="card-title">Ice Keys</h4>
 						<p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
-						<a href="projects/ice-keys" class="btn btn-primary">See project</a>
+						<a href="projects/ice-keys" class="btn btn-primary">See all</a>
 					</div>
 				</div>
 				<!-- 3lb 2020 -->
