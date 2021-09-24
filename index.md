@@ -38,7 +38,7 @@ Note: This site is a work in progress - some internal links are currently broken
           <a href="projects" class="btn btn-secondary">See all</a>
         </div>
       </div>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
         <!-- Ice Keys -->
         <div class="card">
           <img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
