@@ -45,9 +45,9 @@ Note: This site is a work in progress - some internal links are currently broken
           <div class="card-body">
             <h4 class="card-title">Ice Keys</h4>
             <p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
-            <div class="">
-              <a href="projects/ice-keys" class="btn btn-primary">See all</a>
-            </div>
+          </div>
+          <div class="card-footer">
+            <a href="projects/ice-keys" class="btn btn-primary btn-small">More</a>
           </div>
         </div>
         <!-- 3lb 2020 -->
@@ -56,7 +56,9 @@ Note: This site is a work in progress - some internal links are currently broken
           <div class="card-body">
             <h4 class="card-title">3-Lb Combat Bot</h4>
             <p class="card-text">A vertical spinner designed with Combat Robotics at Cornell</p>
-            <a href="#" class="btn btn-primary">See project</a>
+          </div>
+          <div class="card-footer">
+            <a href="projects/crc/3lb-2020" class="btn btn-primary btn-small">More</a>
           </div>
         </div>
         <!-- Reuleaux L6 -->
@@ -65,7 +67,9 @@ Note: This site is a work in progress - some internal links are currently broken
           <div class="card-body">
             <h4 class="card-title">Reuleaux L6</h4>
             <p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
-            <a href="#" class="btn btn-primary">See project</a>
+          </div>
+          <div class="card-footer">
+            <a href="projects/classes/reuleaux-l6" class="btn btn-primary btn-small">More</a>
           </div>
         </div>
         <!-- Frog -->
@@ -74,7 +78,9 @@ Note: This site is a work in progress - some internal links are currently broken
           <div class="card-body">
             <h4 class="card-title">Frog</h4>
             <p class="card-text">A reclaimed metal frog sculpture built in a week</p>
-            <a href="projects/frog" class="btn btn-primary">See project</a>
+          </div>
+          <div class="card-footer">
+            <a href="projects/frog" class="btn btn-primary btn-small">More</a>
           </div>
         </div>
       </div>
