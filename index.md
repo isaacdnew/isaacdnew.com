@@ -47,7 +47,7 @@ Note: This site is a work in progress - some internal links are currently broken
             <p class="card-text">An acoustic keyboard that sounds like pan pipes</p>
           </div>
           <div class="card-footer">
-            <a href="projects/ice-keys" class="btn btn-outline-success btn-sm btn-block">See project</a>
+            <a href="projects/ice-keys" class="btn btn-light btn-sm btn-block">See project</a>
           </div>
         </div>
         <!-- 3lb 2020 -->
@@ -58,7 +58,7 @@ Note: This site is a work in progress - some internal links are currently broken
             <p class="card-text">A vertical spinner designed with Combat Robotics at Cornell</p>
           </div>
           <div class="card-footer">
-            <a href="projects/crc/3lb-2020" class="btn btn-outline-success btn-sm btn-block">See project</a>
+            <a href="projects/crc/3lb-2020" class="btn btn-light btn-sm btn-block">See project</a>
           </div>
         </div>
         <!-- Reuleaux L6 -->
@@ -69,7 +69,7 @@ Note: This site is a work in progress - some internal links are currently broken
             <p class="card-text">CAD model of machine L6 in Cornell's Reuleaux collection</p>
           </div>
           <div class="card-footer">
-            <a href="projects/classes/reuleaux-l6" class="btn btn-outline-success btn-sm btn-block">See project</a>
+            <a href="projects/classes/reuleaux-l6" class="btn btn-light btn-sm btn-block">See project</a>
           </div>
         </div>
         <!-- Frog -->
@@ -80,7 +80,7 @@ Note: This site is a work in progress - some internal links are currently broken
             <p class="card-text">A reclaimed metal frog sculpture built in a week</p>
           </div>
           <div class="card-footer">
-            <a href="projects/frog" class="btn btn-outline-success btn-sm btn-block">See project</a>
+            <a href="projects/frog" class="btn btn-light btn-sm btn-block">See project</a>
           </div>
         </div>
       </div>
