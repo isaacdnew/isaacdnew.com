@@ -36,7 +36,7 @@ Note: This site is a work in progress - some internal links are currently broken
           <h2>My favorite projects</h2>
         </div>
         <div class="col-auto align-self-end">
-          <a href="projects" class="btn btn-sm btn-secondary">See all</a>
+          <a href="projects" class="btn btn-secondary">See all</a>
         </div>
       </div>
       <!-- All the projects -->
