@@ -5,7 +5,7 @@ title: Meet Isaac
 
 Note: This site is a work in progress - some internal links are currently broken.
 
-<div class="container">
+<div class="container-fluid">
   <!-- row with card and group of cards -->
   <div class="row row-cols-1 row-cols-md-2">
     <!-- one card at left -->
