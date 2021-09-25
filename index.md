@@ -30,15 +30,17 @@ Note: This site is a work in progress - some internal links are currently broken
     </div>
     <!-- Group of cards at right (or below for smaller than medium size) -->
     <div class="col">
+      <!-- Heading with button -->
       <div class="row justify-content-between">
         <div class="col">
           <h2>My favorite projects</h2>
         </div>
         <div class="col-auto align-self-end">
-          <a href="projects" class="btn btn-secondary">See all</a>
+          <a href="projects" class="btn btn-sm btn-secondary">See all</a>
         </div>
       </div>
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+      <!-- All the projects -->
+      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 no-gutters">
         <!-- Ice Keys -->
         <div class="card">
           <img class="card-img-top" src="projects/ice-keys/images/p2.jpg" alt="Card image" style="width:100%">
