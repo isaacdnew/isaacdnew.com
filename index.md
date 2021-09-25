@@ -9,7 +9,7 @@ Note: This site is a work in progress - some internal links are currently broken
   <!-- row with card and group of cards -->
   <div class="row row-cols-1 row-cols-md-2">
     <!-- one card at left -->
-    <div class="col-12 col-md-4">
+    <div class="col-12 col-md-4 no-gutters">
       <div class="card">
         <!-- Image Card with Isaac's Picture -->
         <img class="card-img-top" src="general-images/isaac-holding-melodica-square.jpg" alt="Card image" style="width:100%">
