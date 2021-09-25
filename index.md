@@ -40,7 +40,7 @@ Note: This site is a work in progress - some internal links are currently broken
         </div>
       </div>
       <!-- All the projects -->
-      <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3">
+      <div class="row row-cols-1 row-cols-sm-2">
       <!--<div class="card-deck">-->
         <!-- Ice Keys -->
         <div class="card">
